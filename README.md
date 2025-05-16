@@ -1,38 +1,28 @@
 ## 👋 Hi there!
 
-I'm a **full-stack developer** with **7 years of hands-on experience**, specializing in web and mobile development using technologies like:
+I'm a **full-stack developer** with over **7 years of experience** building modern web and mobile applications. I specialize in crafting scalable, performant, and user-focused digital products—from sleek frontend interfaces to robust backend architectures.
 
-- Vue  
-- TypeScript  
-- React & React Native  
-- Node.js  
-- Shopify & Shopify Hydrogen  
-- Svelte  
-- Tailwind  
-- Next.js & Nuxt.js  
-- GraphQL  
-- **Remix**  
-- **TanStack (React Query, Router, Table)**  
-- **tRPC**  
-- **Hono**  
-- **Cloudflare Workers & Pages**
-
-I build **cross-platform applications** that are **scalable**, **performant**, and **user-focused**. I have extensive experience in **headless commerce** and **custom Shopify solutions**, including storefronts powered by **Hydrogen** and integrated with modern tech stacks.
+I have a strong command of **cross-platform development**, **system design**, and **developer experience (DX)**. My work often involves solving complex problems with clean, maintainable code and thoughtful abstractions. I’ve led and contributed to projects across a wide range of industries, with a particular depth in **headless commerce**, **custom storefronts**, and **high-performance UI engineering**.
 
 ---
 
-### 🤖 Recent Focus: AI Integration
+### 🧠 Core Strengths
 
-In recent years, I’ve been working with **AI technologies**—integrating smart features and building intelligent applications using:
+- **Full-stack application architecture**  
+- **Designing for performance and scalability**  
+- **Component-driven UI development**  
+- **API design & integration (REST, GraphQL, RPC)**  
+- **Edge and serverless deployment strategies**  
+- **Collaborating across teams to ship quality software**
 
-- OpenAI  
-- LangChain  
-- Claude AI  
+---
 
-Whether it’s a **headless e-commerce platform**, a **dynamic UI**, or an **AI-powered mobile app**, I bring ideas to life with **clean, efficient code**.
+### 🤖 AI & Emerging Tech
+
+Recently, I’ve been integrating **AI capabilities** into web and mobile products—building intelligent features and automation using tools like OpenAI, LangChain, and Claude AI. I'm passionate about leveraging emerging tech to create smarter, more intuitive experiences.
 
 ---
 
 ### 📬 Let’s Connect
 
-I'm always open to exciting projects. Let’s take your next idea to the next level!
+Whether you're building a headless e-commerce platform, an AI-powered app, or a modern web interface—I'm excited to help bring your ideas to life.
