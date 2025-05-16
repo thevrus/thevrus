@@ -1,28 +1,29 @@
 ## 👋 Hi there!
 
-I'm a **full-stack developer** with over **7 years of experience** building modern web and mobile applications. I specialize in crafting scalable, performant, and user-focused digital products—from sleek frontend interfaces to robust backend architectures.
+I'm a **full-stack developer** with over **7 years of experience** building modern web and mobile applications. I specialize in crafting **scalable**, **performant**, and **user-focused** digital products—from sleek frontend interfaces to robust backend architectures.
 
-I have a strong command of **cross-platform development**, **system design**, and **developer experience (DX)**. My work often involves solving complex problems with clean, maintainable code and thoughtful abstractions. I’ve led and contributed to projects across a wide range of industries, with a particular depth in **headless commerce**, **custom storefronts**, and **high-performance UI engineering**.
+I’m also a **Shopify expert** with deep experience in **headless commerce**, custom storefronts, and API-driven e-commerce ecosystems. I’ve helped brands scale and modernize their online presence through performant, composable architecture and seamless user experiences.
 
 ---
 
 ### 🧠 Core Strengths
 
 - **Full-stack application architecture**  
-- **Designing for performance and scalability**  
+- **Headless commerce & Shopify Hydrogen**  
 - **Component-driven UI development**  
 - **API design & integration (REST, GraphQL, RPC)**  
-- **Edge and serverless deployment strategies**  
-- **Collaborating across teams to ship quality software**
+- **Performance optimization & scalability**  
+- **Edge/serverless deployment strategies**  
+- **Developer experience & maintainable codebases**  
 
 ---
 
 ### 🤖 AI & Emerging Tech
 
-Recently, I’ve been integrating **AI capabilities** into web and mobile products—building intelligent features and automation using tools like OpenAI, LangChain, and Claude AI. I'm passionate about leveraging emerging tech to create smarter, more intuitive experiences.
+Recently, I’ve been integrating **AI capabilities** into web and mobile products—building intelligent features and automation using tools like OpenAI, LangChain, and Claude AI. I'm passionate about combining modern tech with practical problem-solving to deliver smarter, more intuitive applications.
 
 ---
 
 ### 📬 Let’s Connect
 
-Whether you're building a headless e-commerce platform, an AI-powered app, or a modern web interface—I'm excited to help bring your ideas to life.
+Whether you're building a **headless e-commerce platform**, an **AI-powered app**, or a **modern full-stack product**, I bring a deep understanding of both tech and user experience. Let's bring your next idea to life!
